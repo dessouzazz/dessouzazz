@@ -2,7 +2,7 @@
 
 **`Analista de Dados | Python | SQL | Visualização de Dados`**
 
-Sou Yuri de Souza Gomes da Silva, tenho 22 anos, natural da Bahia e atualmente moro em São Paulo.  
+Sou Yuri de Souza Gomes da Silva, tenho 23 anos, natural da Bahia e atualmente moro em São Paulo.  
 Sou **graduado em Sistemas de Informação** pelo Centro Universitário do Rio São Francisco e tenho direcionado minha carreira para **Análise e Ciência de Dados**.
 
 Trabalho com **coleta, tratamento, análise e visualização de dados**, transformando dados brutos em **insights claros para tomada de decisão**. Tenho experiência com **Python, Pandas, NumPy, SQL**, além de criação de gráficos e análises exploratórias em **Jupyter Notebook**.  
