@@ -49,7 +49,7 @@ Sou **Yuri de Souza**, Analista de Dados com direção para Ciência de Dados. C
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dessouzazz&theme=radical&hide_border=true" width="60%"/>
+<img src="https://gh-readme-stats-psi.vercel.app/api?username=dessouzazz&show_icons=true&theme=radical&hide_border=true&hide=prs,issues,stars,contribs&hide_rank=true" />
 </div>
 
 ## 🐍 Contribuições
