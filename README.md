@@ -10,12 +10,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Yuri de Souza**, Analista de Dados com direção para Ciência de Dados. Construo pipelines em Python e SQL, modelo dados em Data Warehouse (Star Schema) e entrego dashboards em Power BI usados por múltiplas áreas de negócio — reduzindo em até 30% o tempo de apuração de KPIs financeiros.
+Analista de Dados / BI com direção para Ciência de Dados. Construo pipelines em Python e SQL, modelo dados em Data Warehouse (Star Schema) e entrego dashboards em Power BI usados por múltiplas áreas de negócio — reduzindo em até 30% o tempo de apuração de KPIs financeiros.
 
-- 🐍 **Python** — Pandas, NumPy, Jupyter Notebook, análise exploratória de dados
-- 📊 **BI** — Power BI (DAX, Power Query), dashboards estratégicos
-- 🧱 **Data Warehouse** — modelagem dimensional (Star Schema), pipelines em SQL
-- ☁️ **CRM & Governança** — Salesforce (SOQL), LGPD
+- 🐍 **Python** — Pandas, NumPy, Matplotlib/Seaborn, SQLAlchemy, Jupyter Notebook
+- 📊 **BI & Dados** — Power BI (DAX, Power Query), Excel avançado, SQL avançado
+- 🧱 **Data Warehouse** — modelagem dimensional (Star Schema), automação de pipelines, integração de APIs
+- 🗄️ **Bancos & CRM** — SQL Server, PostgreSQL, MySQL, Salesforce (SOQL), LGPD
+- 🤖 **Extras** — Prompt Engineering (IA generativa), Cloud Computing, Scrum/Kanban
 - 🎯 Rumo a **Data Scientist**
 
 ## 🛠️ Stack
