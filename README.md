@@ -12,14 +12,14 @@
 
 Analista de Dados / BI com direção para Ciência de Dados. Construo pipelines em Python e SQL, modelo dados em Data Warehouse (Star Schema) e entrego dashboards em Power BI usados por múltiplas áreas de negócio — reduzindo em até 30% o tempo de apuração de KPIs financeiros.
 
-- 🐍 **Python** — Pandas, NumPy, Matplotlib/Seaborn, SQLAlchemy, Jupyter Notebook
-- 📊 **BI & Dados** — Power BI (DAX, Power Query), Excel avançado, SQL avançado
-- 🧱 **Data Warehouse** — modelagem dimensional (Star Schema), automação de pipelines, integração de APIs
-- 🗄️ **Bancos & CRM** — SQL Server, PostgreSQL, MySQL, Salesforce (SOQL), LGPD
-- 🤖 **Extras** — Prompt Engineering (IA generativa), Cloud Computing, Scrum/Kanban
-- 🎯 Rumo a **Data Scientist**
+-  **Python** — Pandas, NumPy, Matplotlib/Seaborn, SQLAlchemy, Jupyter Notebook
+-  **BI & Dados** — Power BI (DAX, Power Query), Excel avançado, SQL avançado
+-  **Data Warehouse** — modelagem dimensional (Star Schema), automação de pipelines, integração de APIs
+-  **Bancos & CRM** — SQL Server, PostgreSQL, MySQL, Salesforce (SOQL), LGPD
+-  **Extras** — Prompt Engineering (IA generativa), Cloud Computing, Scrum/Kanban
+-  Rumo a **Data Scientist**
 
-## 🛠️ Stack
+##  Stack
 
 <div align="center">
 
@@ -36,9 +36,9 @@ Analista de Dados / BI com direção para Ciência de Dados. Construo pipelines 
 
 </div>
 
-## 📌 Projeto em destaque
+##  Projeto em destaque
 
-> ### 🔗 [quiver-to-salesforce](https://github.com/dessouzazz/quiver-to-salesforce)
+> ###  [quiver-to-salesforce](https://github.com/dessouzazz/quiver-to-salesforce)
 >
 > Pipeline ETL em Python que integra dois sistemas que não se falam: um sistema de gestão via SQL Server e o CRM Salesforce. Extrai dados por SOQL, cruza e valida as informações em Python, detectando inconsistências antes de atualizar o CRM.
 >
@@ -47,13 +47,13 @@ Analista de Dados / BI com direção para Ciência de Dados. Construo pipelines 
 > ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6C3EC9?style=flat-square&logoColor=white)
 > ![Salesforce](https://img.shields.io/badge/Salesforce_SOQL-6C3EC9?style=flat-square&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img src="https://gh-readme-stats-psi.vercel.app/api?username=dessouzazz&show_icons=true&theme=radical&hide_border=true&hide=prs,issues,stars,contribs&hide_rank=true" />
 </div>
 
-## 🐍 Contribuições
+##  Contribuições
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/dessouzazz/dessouzazz/output/github-contribution-grid-snake.svg" />
