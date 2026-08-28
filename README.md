@@ -1,77 +1,58 @@
-# 🧑‍💻 Yuri de Souza
+<div align="center">
 
-**`Analista de Dados | Python | SQL | Visualização de Dados`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3D6E,100:2C7DA0&height=200&section=header&text=Yuri%20de%20Souza&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Analista%20de%20Dados%20%7C%20Ci%C3%AAncia%20de%20Dados&descAlignY=62&descSize=18" width="100%"/>
 
-Sou Yuri de Souza Gomes da Silva, tenho 23 anos, natural da Bahia e atualmente moro em São Paulo.  
-Sou **graduado em Sistemas de Informação** pelo Centro Universitário do Rio São Francisco e tenho direcionado minha carreira para **Análise e Ciência de Dados**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dessouzazz)
 
-Trabalho com **coleta, tratamento, análise e visualização de dados**, transformando dados brutos em **insights claros para tomada de decisão**. Tenho experiência com **Python, Pandas, NumPy, SQL**, além de criação de gráficos e análises exploratórias em **Jupyter Notebook**.  
-Sou apaixonado por dados, estatística e aprendizado contínuo.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1B3D6E&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Explorando+Ci%C3%AAncia+de+Dados;Python+%7C+SQL+%7C+Power+BI;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left">
-    <a href="https://github.com/dessouzazz">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/dessouzazz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/dessouzazz">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/dessouzazz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+</div>
 
----
+## 🧑‍💻 Sobre mim
 
-## 📊 Stack de Dados
+Sou **Yuri de Souza**, natural da Bahia e hoje em São Paulo 🌍. Formado em Sistemas de Informação, trabalho transformando dado bruto em decisão: análise exploratória, dashboards e automações que realmente são usadas por quem pede.
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Jupyter" title="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
-<img align="left" alt="Seaborn" title="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+- 🔭 Atualmente construindo dashboards, relatórios e integrações de dados
+- 📈 Aprofundando em Salesforce (SOQL, automações, dashboards)
+- 🎯 Objetivo de longo prazo: Data Engineer
+- ⚡ Fora do código: gosto de transformar processo chato em algo automático
 
-<br/><br/>
+## 🛠️ Stack
 
----
+<div align="center">
 
-## 🧠 Conhecimentos Aplicados
-- Análise Exploratória de Dados (EDA)
-- Limpeza e tratamento de dados
-- Estatística descritiva
-- Visualização de dados
-- Consultas SQL para análise
-- Criação de relatórios e dashboards
-- Organização de projetos em notebooks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+</div>
 
-## 📈 Estatísticas GitHub
+## 📌 Projeto em destaque
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=dessouzazz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<a href="https://github.com/dessouzazz/quiver-to-salesforce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dessouzazz&repo=quiver-to-salesforce&theme=default&hide_border=true" />
+</a>
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessouzazz&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-</p>
+## 📊 GitHub Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dessouzazz&show_icons=true&theme=default&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dessouzazz&hide_border=true" width="48%"/>
+</div>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessouzazz&layout=compact&hide_border=true" />
+</div>
 
+## 🐍 Contribuições
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/dessouzazz/dessouzazz/output/github-contribution-grid-snake.svg" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C7DA0,100:1B3D6E&height=100&section=footer" width="100%"/>
