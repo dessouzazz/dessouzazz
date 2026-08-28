@@ -48,7 +48,7 @@ Sou **Yuri de Souza**, Analista de Dados / BI. Construo pipelines em Python e SQ
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dessouzazz&hide_border=true&background=00000000&ring=9333EA&fire=A855F7&currStreakLabel=C4B5FD&v=2" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dessouzazz&hide_border=true" width="60%"/>
 </div>
 
 ## 🐍 Contribuições
