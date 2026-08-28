@@ -10,13 +10,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou **Yuri de Souza**, Analista de Dados / BI. Construo pipelines em Python e SQL, modelo dados em Star Schema e entrego dashboards em Power BI usados por múltiplas áreas de negócio — reduzindo em até 30% o tempo de apuração de KPIs financeiros.
+Sou **Yuri de Souza**, Analista de Dados com direção para Ciência de Dados. Construo pipelines em Python e SQL, modelo dados em Data Warehouse (Star Schema) e entrego dashboards em Power BI usados por múltiplas áreas de negócio — reduzindo em até 30% o tempo de apuração de KPIs financeiros.
 
-- 📊 Dashboards estratégicos em Power BI (DAX, Power Query)
-- 🔗 Pipelines de dados em Python (Pandas, SQLAlchemy) + SQL avançado
-- ☁️ Integração com CRM via Salesforce (SOQL) e governança de dados (LGPD)
-- 🧱 Modelagem dimensional (Star Schema) e KPIs financeiros de ponta a ponta
-- 🎯 Rumo a Data Engineer
+- 🐍 **Python** — Pandas, NumPy, Jupyter Notebook, análise exploratória de dados
+- 📊 **BI** — Power BI (DAX, Power Query), dashboards estratégicos
+- 🧱 **Data Warehouse** — modelagem dimensional (Star Schema), pipelines em SQL
+- ☁️ **CRM & Governança** — Salesforce (SOQL), LGPD
+- 🎯 Rumo a **Data Scientist**
 
 ## 🛠️ Stack
 
@@ -26,6 +26,7 @@ Sou **Yuri de Souza**, Analista de Dados / BI. Construo pipelines em Python e SQ
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
